@@ -1,0 +1,10 @@
+<field>
+	 <dc-schema>dc</dc-schema>
+         <dc-element>type</dc-element>
+         <dc-qualifier></dc-qualifier>
+         <repeatable>false</repeatable>
+         <label>Tipo de documento:</label>
+         <input-type value-pairs-name="common_types">dropdown</input-type>
+         <hint>&lt;font color="red"&gt;CAMPO OBRIGATÓRIO: &lt;/font&gt; Selecione o TIPO DE DOCUMENTO.</hint>
+         <required>&lt;font color="red"&gt;&lt;strong&gt;CAMPO OBRIGATÓRIO:&lt;/strong&gt; Selecione o TIPO DE DOCUMENTO. &lt;/font&gt;</required>
+       </field>
